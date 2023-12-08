@@ -3,7 +3,7 @@
 ![Communication Engineer from Alexandria, Egypt]()
 
 
-Skills: (![Python]([/images/icon.png](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png))) / MATLab/ C / HTML / CSS
+Skills: (https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png))) / MATLab/ C / HTML / CSS
 
 - 🌱 I’m currently learning Software Testing 
 - 📫 How to reach me: 1998mft1998@gmail.com 
