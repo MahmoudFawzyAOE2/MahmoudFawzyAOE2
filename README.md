@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mahmou
 #### Communication Engineer from Alexandria, Egypt
-![Communication Engineer from Alexandria, Egypt](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Communication Engineer from Alexandria, Egypt]()
 
 
 Skills: Python/ MATLab/ C / HTML / CSS
