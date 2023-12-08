@@ -1,19 +1,15 @@
-### Hi there 👋
+### Hi there 👋, My name is Mahmou
+#### Communication Engineer from Alexandria, Egypt
+![Communication Engineer from Alexandria, Egypt](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-&show=reviews
-<!--
-**MahmoudFawzyAOE2/MahmoudFawzyAOE2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: Python/ MATLab/ C / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
-- 🌱 I’m currently learning Software Testing
+- 🌱 I’m currently learning Software Testing 
+- 📫 How to reach me: 1998mft1998@gmail.com 
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahmoudFawzyAOE2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahmoud-fawzy-5901a51a7//)  
+
+![GitHub metrics](https://metrics.lecoq.io/MahmoudFawzyAOE2)  
 
