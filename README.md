@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Mahmoud Fawzy</h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=300&size=50&duration=3000&pause=500&color=F7E124&center=true&vCenter=true&random=false&width=500&lines=Pythoneer/SoftwareTester" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=275&size=45&duration=3000&pause=500&color=F7E124&center=true&vCenter=true&random=false&width=500&lines=Pythoneer/SoftwareTester" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
