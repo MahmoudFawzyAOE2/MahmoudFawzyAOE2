@@ -23,11 +23,13 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="60" height="60"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="60" height="60"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/241-2413971_jupyter-notebook-logo-transparent-hd-png-download.png" alt="jupyter" width="55" height="58"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="SQL Server" width="60" height="60"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="SQL Server" width="60" height="60"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="linux" width="60" height="60"/> </a>
 
 
 
