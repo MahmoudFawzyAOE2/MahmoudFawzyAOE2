@@ -34,6 +34,8 @@
 <a href="https://atom-editor.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="atom" width="60" height="60"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" width="60" height="60"/> </a>
 
-
+ <!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudFawzyAOE2&show_icons=true&theme=great-gatsby)](https://github.com/MahmoudFawzyAOE2?tab=repositories)
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahmoudFawzyAOE2&label=Profile%20views&color=0e75b6&style=flat" alt="MahmoudFawzyAOE2" /> </p>
