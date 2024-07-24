@@ -30,10 +30,11 @@
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="SQL Server" width="60" height="60"/> </a>
 <a href="https://www.linux.org/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="linux" width="60" height="60"/> </a>
 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/190887571-ddd87d6e-77f8-41e7-b755-9b6d68e4fab7.png" alt="jupyter" width="60" height="60"/> </a>
-<a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJN32wvegS1DOyiC3OzVOWF2uAxqgyzndqQ&s" alt="Spyder" width="60" height="60"/> </a>
-<a href="https://atom-editor.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="atom" width="60" height="60"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" width="60" height="60"/> </a>
+<a href="https://atom-editor.cc/"> <img src="https://user-images.githubusercontent.com/25181517/190887571-ddd87d6e-77f8-41e7-b755-9b6d68e4fab7.png" width="60" height="60"/> </a>
+<a href="https://www.codeblocks.org/" > <img src="https://freesoft.ru/storage/images/203/2025/202420/202420_normal.png" width="60" height="60"/> </a>
+<a href="https://www.spyder-ide.org/" > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJN32wvegS1DOyiC3OzVOWF2uAxqgyzndqQ&s" width="60" height="60"/> </a>
+<a href="https://jupyter.org/" > <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="60" height="60"/> </a>
+<a href="https://www.atlassian.com/software/jira"> <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="60" height="60"/> </a>
 
  <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudFawzyAOE2&show_icons=true&theme=great-gatsby)](https://github.com/MahmoudFawzyAOE2?tab=repositories)
