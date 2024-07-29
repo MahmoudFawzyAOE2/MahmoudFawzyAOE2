@@ -8,6 +8,14 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif" alt="Coder GIF" ">
 </div>
 
+<h3 align="left">About me:</h3>
+<ul>
+  <li>BEs in Electronics and Communication Engineering from Alexandria Univ</li>
+  <li>Software Testing Trainee @ ITI</li>
+  <li>ISTQB CTFL Certified Software Tester</li>
+</ul>
+<h3 align="left"> &nbsp </h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mft1998/"><img src="https://github.com/MahmoudFawzyAOE2/MahmoudFawzyAOE2/assets/76012086/f0106196-78ca-41c1-834b-c57ff313fab0" alt="connect with Linkedin/" height="80" width="80" /></a>
@@ -18,6 +26,7 @@
  <a href="https://www.hackerrank.com/profile/houda0aoe2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="houda0aoe2" height="30" width="40" /></a>
 -->
 </p>
+<p align="left"> &nbsp </p>
 
 <h3 align="left">Technologies and Tools:</h3>
 
