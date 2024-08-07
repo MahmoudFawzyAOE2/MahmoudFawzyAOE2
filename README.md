@@ -10,7 +10,7 @@
 
 <h3 align="left">About me:</h3>
 <ul>
-  <li>BEs in Electronics and Communication Engineering from Alexandria Univ</li>
+  <li>BEs in Electronics and Communication Engineering from Alexandria University, Egypt</li>
   <li>Software Testing Trainee @ ITI</li>
   <li>ISTQB CTFL Certified Software Tester</li>
 </ul>
