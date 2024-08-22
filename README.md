@@ -46,6 +46,7 @@
 <a href="https://www.atlassian.com/software/jira"> <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="60" height="60"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="SQL Server" width="60" height="60"/> </a>
 <a href="https://www.postman.com/"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="60" height="60"/> </a>
+<a href="https://www.jetbrains.com/idea/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="60" height="60"/> </a>
 
  <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudFawzyAOE2&show_icons=true&theme=great-gatsby)](https://github.com/MahmoudFawzyAOE2?tab=repositories)
