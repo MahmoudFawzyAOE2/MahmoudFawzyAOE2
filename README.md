@@ -10,7 +10,7 @@
 
 <h3 align="left">About me:</h3>
 <ul>
-  <li>Software Tester @ Tadarab</li>
+  <li>Former Software Tester @ Tadarab</li>
   <li>ISTQB CTFL Certified Software Tester</li>
   <li>Former Software Testing Trainee @ ITI</li>
   <li>BEs in Electronics and Communication Engineering from Alexandria University, Egypt</li>
@@ -22,6 +22,9 @@
 <a href="https://www.linkedin.com/in/mft1998/"><img src="https://github.com/MahmoudFawzyAOE2/MahmoudFawzyAOE2/assets/76012086/f0106196-78ca-41c1-834b-c57ff313fab0" alt="connect with Linkedin/" height="80" width="80" /></a>
 <a href="mailto:1998mft1998@gmail.com"><img  src="https://github.com/MahmoudFawzyAOE2/MahmoudFawzyAOE2/assets/76012086/44bfba69-13ee-4bca-bcf6-3337816f7566" alt="connect with Gmail" height="80" width="80" /></a>
 <a href="http://wa.me/+201123398770"><img src="https://github.com/MahmoudFawzyAOE2/MahmoudFawzyAOE2/assets/76012086/ec90ab28-71f7-4dfc-93a6-9ee712ff7bf7" alt="Connect with Whatsapp" height="80" width="80" /></a>
+<a href="https://mahmoudfawzyaoe2.github.io/mft1998-portfolio"><img src="https://raw.githubusercontent.com/MahmoudFawzyAOE2/mft1998-portfolio/refs/heads/main/images/MFTICONBLU.png" alt="Go to My Portfolio" height="80" width="80" /></a>
+
+ 
  <!--
 <a href="https://www.facebook.com/messages/t/mft1998"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlwYmh4Mm83d3UxNTI5cnd1bmQ5M2NuM2tmNm1lcHdtdnF0MXQ3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SILXCxsl7ZIz3pQS1r/giphy.webp" alt="Connect with Messenger" height="95" width="95" /></a>
  <a href="https://www.hackerrank.com/profile/houda0aoe2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="houda0aoe2" height="30" width="40" /></a>
@@ -31,7 +34,7 @@
 <h3 align="left">Technologies and Tools:</h3>
 
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
+<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="c" width="60" height="60"/> </a>
 <a href="https://www.w3schools.com/cpp/"><img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="c" width="60" height="60"/> </a>
 <a href="https://www.java.com/en/"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="c" width="60" height="60"/> </a>
 <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a>
