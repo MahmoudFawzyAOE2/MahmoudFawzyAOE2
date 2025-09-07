@@ -24,6 +24,8 @@
 <a href="http://wa.me/+201123398770"><img src="https://github.com/MahmoudFawzyAOE2/MahmoudFawzyAOE2/assets/76012086/ec90ab28-71f7-4dfc-93a6-9ee712ff7bf7" alt="Connect with Whatsapp" height="80" width="80" /></a>
 <a href="https://mahmoudfawzyaoe2.github.io/mft1998-portfolio"><img src="https://raw.githubusercontent.com/MahmoudFawzyAOE2/mft1998-portfolio/refs/heads/main/images/MFTICONBLU.png" alt="Go to My Portfolio" height="80" width="80" /></a>
 
+ ![GitHub followers](https://img.shields.io/github/followers/MahmoudFawzyAOE2?style=social)
+![GitHub stars](https://img.shields.io/github/stars/MahmoudFawzyAOE2?style=social)<span align="left"> <img src="https://komarev.com/ghpvc/?username=MahmoudFawzyAOE2&label=Profile%20views&color=0e75b6&style=flat" alt="MahmoudFawzyAOE2" /> </span>
  
  <!--
 <a href="https://www.facebook.com/messages/t/mft1998"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlwYmh4Mm83d3UxNTI5cnd1bmQ5M2NuM2tmNm1lcHdtdnF0MXQ3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SILXCxsl7ZIz3pQS1r/giphy.webp" alt="Connect with Messenger" height="95" width="95" /></a>
@@ -58,8 +60,12 @@
 
 
 
- <!--
+<!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudFawzyAOE2&show_icons=true&theme=great-gatsby)](https://github.com/MahmoudFawzyAOE2?tab=repositories)
--->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MahmoudFawzyAOE2&label=Profile%20views&color=0e75b6&style=flat" alt="MahmoudFawzyAOE2" /> </p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoudFawzyAOE2&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=MahmoudFawzyAOE2&theme=great-gatsby&border_radius=5)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudFawzyAOE2&layout=compact&theme=great-gatsby)](https://github.com/MahmoudFawzyAOE2?tab=repositories)
+
+
